@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "componente": "Matemática",
+    "professor": "Ines",
+    "dia": "segunda-feira",
+    "ordem": 1
+  },
+  {
+    "id": 3,
+    "componente": "Português",
+    "professor": "Carolina",
+    "dia": "segunda-feira",
+    "ordem": 2
+  },
+  {
+    "id": 4,
+    "componente": "Educação Física",
+    "professor": "Samuel",
+    "dia": "quarta-feira",
+    "ordem": 1
+  },
+  {
+    "id": 5,
+    "componente": "História",
+    "professor": "Helcio",
+    "dia": "terça-feira",
+    "ordem": 1
+  }
+]
